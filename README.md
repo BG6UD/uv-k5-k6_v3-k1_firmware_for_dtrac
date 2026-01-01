@@ -2,6 +2,7 @@ DTrac APP 新增了对泉盛UV-K5/K6_v3/k1的支持，现在可以通过APP操�
 
 注：以下内容转自原作者
 # Stats
+https://github.com/qbs524/uv-k1-k5v3-firmware-custom-main-chn
 我的英文描述全部是翻译软件生成的，请自行理解，谢谢。
 这是 F4HWN UV-K1 固件的汉化版本
 flash py25q16 里面中文字库地址是从0x111340开始，输入法拼音是从0x0x100000开始，中文查询表是从0x101f00开始
